@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Alas-3/Alas-3/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
