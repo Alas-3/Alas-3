@@ -1,6 +1,8 @@
 <h2 align="left">Hi 👋! My name is Ace and I'm a Front-End Web Developer</h2>
 
 ###
+![Ace labador](https://github.com/Alas-3/Alas-3/assets/87595218/7bfa8ea7-3a99-4de8-b250-a3f30eba708f)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alas-3&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
