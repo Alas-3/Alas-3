@@ -49,12 +49,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Alas-3&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alas-3&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Alas-3&locale=en&mode=weekly&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Alas-3.Alas-3&left_color=black&right_color=black"  />
 
 ###
 
@@ -66,5 +63,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Alas-3.Alas-3&left_color=black&right_color=black"  />
 
 ###
