@@ -1,5 +1,3 @@
-<br clear="both">
-
 <img align="right" height="300" src="https://github.com/Alas-3/Alas-3/assets/87595218/7bfa8ea7-3a99-4de8-b250-a3f30eba708f"  />
 
 ###
@@ -12,7 +10,7 @@
 
 ###
 
-<h5 align="left">I'm Ace from the Philippines<br><br>👨🏻‍💻 Web Developer<br>👨🏻‍🎓 I’m a student currently freelancing.<br>📚 I'm currently learning the intricacies of web development and more.<br>⚡ In my free time I either watch anime or read manga.</h5>
+<h4 align="left">I'm Ace from the Philippines<br><br>👨🏻‍💻 Web Developer<br>👨🏻‍🎓 I’m a student currently freelancing.<br>📚 I'm currently learning the intricacies of web development and more.<br>⚡ In my free time I either watch anime or read manga.</h4>
 
 ###
 
@@ -49,7 +47,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alas-3&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="180" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Alas-3&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
 
