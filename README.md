@@ -1,14 +1,12 @@
-<br clear="both">
-
 <img align="right" height="300" src="https://github.com/Alas-3/Alas-3/assets/87595218/7bfa8ea7-3a99-4de8-b250-a3f30eba708f"  />
 
 ###
 
-<h1 align="center">Hey There 🙋🏻‍♂️</h1>
+<h3 align="center">Hey There 🙋🏻‍♂️</h3>
 
 ###
 
-<h2 align="left">❔ A Little About Me</h2>
+<h3 align="left">❔ A Little About Me</h3>
 
 ###
 
@@ -44,6 +42,8 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
 ###
