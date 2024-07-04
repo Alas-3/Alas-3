@@ -1,3 +1,5 @@
+<br clear="both">
+
 <img align="right" height="300" src="https://github.com/Alas-3/Alas-3/assets/87595218/7bfa8ea7-3a99-4de8-b250-a3f30eba708f"  />
 
 ###
