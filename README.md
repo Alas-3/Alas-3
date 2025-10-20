@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">I'm Ace from the Philippines<br><br>👨🏻‍💻 Software Engineer<br>👨🏻‍🎓 I’m a student currently working as a Software Engineer.<br>📚 I'm continuously improving my skills in software development, with a particular focus on web development.<br>⚡ In my free time I either watch anime or read manga.</h4>
+<h4 align="left">I'm Ace from the Philippines<br><br>👨🏻‍💻 Software Engineer<br>👨🏻‍🎓 I’m a BSIT graduate currently working as a Software Engineer.<br>📚 I'm continuously improving my skills in software development, with a particular focus on web development.<br>⚡ In my free time I either watch anime or read manga.</h4>
 
 ###
 
